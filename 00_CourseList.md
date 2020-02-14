@@ -1,0 +1,59 @@
+- Intro to HTML and CSS
+- [https://classroom.udacity.com/courses/ud001](https://classroom.udacity.com/courses/ud001)
+- DAND Readiness Assessment
+- [https://classroom.udacity.com/courses/ud002](https://classroom.udacity.com/courses/ud002)
+- AJAX 入门: 使用 jQuery 发送异步请求
+- [https://classroom.udacity.com/courses/ud110](https://classroom.udacity.com/courses/ud110)
+- ### [商业分析 A/B 测试](https://cn.udacity.com/course/ab-testing--ud979)
+- ### [细分和聚类](https://cn.udacity.com/course/segmentation-and-clustering--ud981)
+- 学习构建和应用聚类模型，在商业环境中进行更详尽细分的基础知识
+- ### [模型搭建与验证](https://cn.udacity.com/course/model-building-and-validation--ud919)
+- 这门课程将教你如何从头开始理解数据，以及如何回答数据方面的问题。
+- ### [时间序列预测分析](https://cn.udacity.com/course/time-series-forecasting--ud980)
+- 学习在各种业务背景下构建和应用时间序列预测模型的基础知识。
+- ### [Data Analysis and Visualization](https://cn.udacity.com/course/data-analysis-and-visualization--ud404)
+- This course will introduce students to the field by covering state-of-the-art modeling, analysis and visualization techniques.
+- ### [Spark 入门](https://cn.udacity.com/course/learn-spark-at-udacity--ud2002)
+- 学习使用时下最热门的 Spark 来处理大数据，构建机器学习模型！
+- ### [计算机科学导论](https://cn.udacity.com/course/intro-to-computer-science--cs101)
+- 在这门 Python 入门课程中，学习计算机科学的关键概念。你将通过实践学习，搭建你自己的搜索引擎和社交网络。
+- ### [数据科学入门](https://cn.udacity.com/course/intro-to-data-science--ud359)
+- 数据科学家都在做什么？在这门课程中，我们将调查数据科学领域中的重要主题，让你了解成为一个数据科学家的必要技能！
+- ### [Hadoop 和 MapReduce 入门](https://cn.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+- 此课程较为简短，你将从中了解 MapReduce 和 Apache Hadoop 的基本原理，开始理解大数据在现实世界中的意义！
+- ### [CSE 8803 专题内容：大数据](https://cn.udacity.com/course/cse-8803-special-topics-big-data--ud758)
+- 在这门课程中，我们将介绍医学数据的特征，以及处理这些数据面临的数据挖掘挑战。课程将涉及各种算法和体系。
+- ### [用 Apache Storm 进行实时分析](https://cn.udacity.com/course/real-time-analytics-with-apache-storm--ud381)
+- 学习实时处理 Twitter 上的大量推文或大数据流，使用 Apache Storm 驱动 d3 可视化图，即实现“实时 Hadoop”。Storm 是免费、开源的，并且使用起来很有乐趣！
+- ### [操作系统概论](https://cn.udacity.com/course/introduction-to-operating-systems--ud923)
+- ### [操作系统概论](https://cn.udacity.com/course/introduction-to-operating-systems--ud923)
+- ### [计算机网络](https://cn.udacity.com/course/computer-networking--ud436)
+- 这门高级计算机网络课程将介绍计算机网络领域的常用工具和新概念。
+- ### [软件开发流程](https://cn.udacity.com/course/software-development-process--ud805)
+- 这门课程将探索需求工程、架构和设计、测试和维护以及软件质量。
+- ### [软件架构及设计](https://cn.udacity.com/course/software-architecture-design--ud821)
+- 学习大型软件系统分析和设计中涉及的原理和概念。
+- ### [信息安全入门](https://cn.udacity.com/course/intro-to-information-security--ud459)
+- ### [可计算性、复杂性和算法](https://cn.udacity.com/course/computability-complexity-algorithms--ud061)
+- 学习一些工具和技巧，当你遇到棘手的问题时，这些工具和技巧会帮助你找到有效的解决方案。
+- ### [高级操作系统](https://cn.udacity.com/course/advanced-operating-systems--ud189)
+- 了解成就了如今先进操作的所有技术进步，涵盖各种平台：手机、多核、并行系统、分布式系统及云计算。
+- ### [关系数据库入门](https://cn.udacity.com/course/intro-to-relational-databases--ud197)
+- 关系数据库是非常强大的工具，广泛用于各个行业。你将学习 SQL 基础知识以及如何将 Python 代码与关系数据库相关联。
+- ### [全栈基础](https://cn.udacity.com/course/full-stack-foundations--ud088)
+- 通过使用迭代开发过程全新创建你自己的 Web 应用，了解后端 Web 开发的基本原理。
+- ### [设计 RESTful API](https://cn.udacity.com/course/designing-restful-apis--ud388)
+- 创建和保护一个后端服务器，并提供用户友好的 RESTful API。
+- ### [网站性能优化](https://cn.udacity.com/course/website-performance-optimization--ud884)
+- 通过用 Chrome 开发者工具来实验性地测量和优化网站速度，学习浏览器是如何将 HTML、CSS 和 JavaScript 转化为网页的。
+- ### [HTML5 Canvas](https://cn.udacity.com/course/html5-canvas--ud292)
+- 学习如何使用 HTML5 Canvas 创建和编辑图片，甚至动画。
+- ### [网站易用性](https://cn.udacity.com/course/web-accessibility--ud891)
+- 在这门课程里，你将亲身体验如何使网络应用具有无障碍功能。你将理解用户何时需要无障碍功能，为何需要。然后你将深入学习“如何”实现无障碍性。
+- [Python 入门](https://classroom.udacity.com/courses/ud1110)
+- [描述统计学入门](https://classroom.udacity.com/courses/ud827)
+- [Deep Learning Workshop](https://classroom.udacity.com/courses/ud829)
+- [SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ0Njc2NDA1MF19
+-->
