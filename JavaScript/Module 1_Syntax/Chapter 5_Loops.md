@@ -1,5 +1,7 @@
 # Chapter 5: Loops
 
+[intro-to-javascript](https://cn.udacity.com/course/intro-to-javascript--ud803) ([backup](https://classroom.udacity.com/courses/ud803))
+
 ## While Loops
 
 ### Parts of a While Loop
@@ -151,5 +153,5 @@ x *= 2 // same as x = x * 2
 x /= 5 // same as x = x / 5
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjM4NDE4M119
+eyJoaXN0b3J5IjpbNzA0OTg0OTAzXX0=
 -->
