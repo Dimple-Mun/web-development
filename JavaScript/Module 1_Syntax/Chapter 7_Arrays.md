@@ -1,3 +1,7 @@
+# Chapter 8: Arrays
+
+[intro-to-javascript](https://cn.udacity.com/course/intro-to-javascript--ud803) ([backup](https://classroom.udacity.com/courses/ud803))
+
 ## Declaring an Array
 
 An  **array**  is useful because it stores multiple values into a single, organized data structure. You can define a new array by listing values separated with commas `,` between square brackets  `[]`.
@@ -642,5 +646,5 @@ for (var row = 0; row < donutBox.length; row++) {
 	console.log(numbers);
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzA5OTI5XX0=
+eyJoaXN0b3J5IjpbMjU2OTc2OTM1XX0=
 -->
