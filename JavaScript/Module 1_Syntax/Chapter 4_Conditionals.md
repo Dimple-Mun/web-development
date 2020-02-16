@@ -1,5 +1,7 @@
 # Chapter 4: Conditionals
 
+[intro-to-javascript](https://cn.udacity.com/course/intro-to-javascript--ud803) ([backup](https://classroom.udacity.com/courses/ud803))
+
 ```
 if (/* this expression is true */) {
   // run this code;
@@ -297,5 +299,5 @@ console.log(output);
 
 You can add a  `default`  case to a switch statement and it will be executed when none of the values match the value of the switch expression.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MzUxMjU0XX0=
+eyJoaXN0b3J5IjpbLTM2ODk3OTc1Ml19
 -->
