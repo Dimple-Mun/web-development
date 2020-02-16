@@ -1,5 +1,7 @@
 # Chapter 2: Data Types & Variables
 
+[intro-to-javascript](https://cn.udacity.com/course/intro-to-javascript--ud803) ([backup](https://classroom.udacity.com/courses/ud803))
+
 ## Comments
 
 You can use  **comments**  to help explain your code and make things clearer. In JavaScript, comments are marked with a double forward-slash  `//`. Anything written on the same line after the  `//`  will not be executed or displayed. To have the comment span multiple lines, mark the start of your comment with a forward-slash and star, and then enclose your comment inside a star and forward-slash  `/* … */`.
@@ -394,5 +396,5 @@ var totalAfterTax = 53.03; var tip = 8; // this is correct!
 
 Not adding semicolons to the end of each line  _can_  cause bugs and errors in your programs. JavaScript does have ways to  _occasionally_  predict where semicolons  _should_  be, but just like how type coercion can result in some unexpected quirky behavior in JavaScript, it's good practice to not depend on it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTgxODkyXX0=
+eyJoaXN0b3J5IjpbLTE1MzgxODA0MjBdfQ==
 -->
