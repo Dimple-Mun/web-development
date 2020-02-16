@@ -1,5 +1,7 @@
 # Chapter 3: Overall JavaScript Features
 
+[intro-to-javascript](https://cn.udacity.com/course/intro-to-javascript--ud803) ([backup](https://classroom.udacity.com/courses/ud803))
+
 ## Comparisons
 
 | **Operator** | **Meaning** |
@@ -150,7 +152,6 @@ if (1) {
 } else {
     console.log("the value is falsy");
 }
-
 ```
 
 > **Returns:**  "the value is truthy"
@@ -173,5 +174,5 @@ if (1) {
 4. array
 5. list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ1MjQzNF19
+eyJoaXN0b3J5IjpbLTQ4MzkzMDEyXX0=
 -->
