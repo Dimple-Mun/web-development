@@ -1,5 +1,7 @@
 # Chapter 1: What is JavaScript
 
+[intro-to-javascript](https://cn.udacity.com/course/intro-to-javascript--ud803) ([backup](https://classroom.udacity.com/courses/ud803))
+
 ## History of JavaScript
 
 (video)
@@ -143,5 +145,5 @@ document.body.addEventListener('click', function () {
 
 If you’re confused because nothing happened. Don’t worry. Click somewhere on the page to see the effect. You can refresh the page to return the page its original state.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTI5MTExXX0=
+eyJoaXN0b3J5IjpbLTIyNzM2MDE2M119
 -->
