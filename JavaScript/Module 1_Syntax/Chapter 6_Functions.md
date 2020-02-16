@@ -1,4 +1,14 @@
-- Declaring & Running Functions
+# Chapter 6: Functions
+
+[intro-to-javascript](https://cn.udacity.com/course/intro-to-javascript--ud803) ([backup](https://classroom.udacity.com/courses/ud803))
+
+- Topic 1. Declaring & Running Functions
+- Topic 2. Return Values of Functions
+- Topic 3.  Scope
+- Topic 4. Hoisting
+- Topic 5. Function Expressions
+
+---
 
 # Topic 1. Declaring & Running Functions
 ## How to _declare_ a function
@@ -686,5 +696,5 @@ movies(function(movieName) {
 }, "Finding Nemo");
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzc2MDY4XX0=
+eyJoaXN0b3J5IjpbMTM5Mjc4ODIwNl19
 -->
